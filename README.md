@@ -31,5 +31,5 @@ Simple Interest = (1000 x 5 x 2) / 100 = 100
 - `CODE_OF_CONDUCT.md`: community code of conduct
 - `CONTRIBUTING.md`: contribution guidelines
 
-   2022 XYZ, Inc.
+   2023 XYZ, Inc.
    
