@@ -30,3 +30,6 @@ Simple Interest = (1000 x 5 x 2) / 100 = 100
 - `LICENSE`: Apache License 2.0
 - `CODE_OF_CONDUCT.md`: community code of conduct
 - `CONTRIBUTING.md`: contribution guidelines
+
+   2022 XYZ, Inc.
+   
